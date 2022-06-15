@@ -5,7 +5,6 @@
 
 #### I'm a software developer who is passionate about making a difference and learning new things 
 
-- 😎 Open to contracting opportunities if the project sounds cool.
 - ⚙️ Love working with: Javascript, Typescript, HTMl, CSS, React.js, Node.js, Python, Django
 - 🌱 Learning more about and studying: Next.js, Flask, Elixir
 - 📫 Reach me asap: nehama1836@gmail.com
